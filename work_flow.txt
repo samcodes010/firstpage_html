@@ -1,0 +1,26 @@
+First the planing phase
+
+    see the layout 
+    map and read layout(hight, width, pading, etc)
+    tablet  {
+        padding left,right : 160
+        padding bottom, top: 60
+        try for free button: 540*60, text: 13
+        form : 540*600 ,text: 10, 13
+        text :200*540, text: 12 , 40
+    }
+
+    mobile {
+        form padding left,right : 24
+        text padding left,right.main : 72
+                               .pera : 32
+        padding bottom, top: 100, 70
+        try for free button: 540*60, text: 13
+        form : 540*600 ,text: 10, 13
+        text :200*540, text: 12 , 40
+    }
+
+importing styles setting
+
+setingup scss
+
